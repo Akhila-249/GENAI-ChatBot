@@ -1,5 +1,5 @@
 # GENAI-ChatBot
-NOTE:**step by procedure provided in colab note book(REFER COLAB NOTEBOOK)**
+NOTE:**step by step procedure provided in colab note book(REFER COLAB NOTEBOOK)**
 Below discussed tools that are used in this application.Have a look!
 ## **Nutz and Bolts for Generative AI Applications**
 
